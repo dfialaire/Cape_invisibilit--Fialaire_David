@@ -1,3 +1,5 @@
+<b><u>Lien</u> : https://dfialaire.github.io/Cape_invisibilit--Fialaire_David/lab/index.html
+
 # JupyterLite Demo
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
